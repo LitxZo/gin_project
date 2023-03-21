@@ -1,3 +1,3 @@
-# 这是一个GIN项目的RSEADME
+# 这是一个GIN项目的README
 
 没啥
