@@ -8,7 +8,7 @@
             "name": "Golang",
             "type": "go",
             "request": "launch",
-            "remotePath": "",
+            // "remotePath": "",
             "program": "${fileDirname}",
             "env": {
                 "GOPATH": "/Users/litxzo/gopath",   //调整为实际设置目录
